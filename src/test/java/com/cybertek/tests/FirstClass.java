@@ -1,4 +1,4 @@
-package com.cybertek.tests.day1_basic_navigation;
+package com.cybertek.tests;
 
 import com.github.javafaker.Faker;
 
